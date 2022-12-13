@@ -5,9 +5,9 @@
 ###################################################################
 
 # Site settings
-title: The Nonprofit Data Project
-description: Information about several grant-funded nonprofit research projects generating new data for the field.
-baseurl: "/nonprofitdata" # the subpath of your site, e.g. /blog
+title: National Center for Charitable Statistics
+description: A demo of the new NCCS data portal.
+baseurl: "/nccs-demo" # the subpath of your site, e.g. /blog
 url: ""
 
 # Github  Informations

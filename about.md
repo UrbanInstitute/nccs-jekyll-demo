@@ -7,18 +7,27 @@ title: 'About'
 
 
 
-## Project History
+## History of NCCS
 
-In 2015, the key collaborators at Urban Institute, American University, and George Mason University began having conversations with other scholars and institutions around the country about the piecemeal nature of most research on nonprofit organizations, which could not be aggregated to understand the important contributions and needs of nonprofit organizations both across the United States and within communities. These early conversations with more than 70 researchers from around the country were supported by American University, the Urban Institute, and in-kind contributions from the Association for Research on Nonprofit Organizations and Voluntary Action (ARNOVA). 
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. 
 
-... [INSERT TIMELINE]
 
-## Project Funding 
 
-In 2020 the project received funding from two sources to develop the panel, launch the survey, and to begin developing the data-sharing platform: 
+## Executive board
+These people are currently heading RECON.
 
-* NSF Human Networks and Data Science Infrastructure Grant
-* The Generosity Commission, a project of the Giving Institute and Giving USA Foundation
+{% include list-circles.html items=site.data.people.executive_board %}
 
-## Research Team 
+## Members
+
+Members are people actively involved in, and contributing to, RECON's activities. 
+
+{% include list-circles.html items=site.data.people.members %}
+
+## Advisory board
+
+We are extremely lucky to have the following people supporting and guiding our efforts:
+
+{% include list-circles.html items=site.data.people.advisory_board %}
+
 

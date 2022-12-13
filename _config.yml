@@ -5,17 +5,16 @@
 ###################################################################
 
 # Site settings
-title: National Center for Charitable Statistics
+title: NCCS
 description: A demo of the new NCCS data portal.
 baseurl: "/nccs-demo" # the subpath of your site, e.g. /blog
 url: ""
 
-# Github  Informations
+# Github  Information
 github:
   username: lecy 
   reponame: nccs-demo 
-  owner_name: 
-  project_title:
+
 
 ###
 ### NAVIGATION BAR

@@ -3,11 +3,11 @@ layout: home
 
 banner-main:
     img: assets/images/main-banner.png
-    background: '#0a4c6a'
+    background: '#2a3249'
     title: Banner Title Here
 
 banner-section-01:
-    img: assets/main-banner.png
+    img: assets/images/banner-two.png
 
 card-section:
     cards:

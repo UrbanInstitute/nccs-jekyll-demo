@@ -13,7 +13,7 @@ url: ""
 # Github  Informations
 github:
   username: lecy 
-  reponame: nonprofitdataproject 
+  reponame: nccs-demo 
   owner_name: 
   project_title:
 
@@ -27,12 +27,14 @@ plugins:
   - jekyll-feed
 
 navbar:
-- title: Data Access
-  url: data
-- title: The Survey
-  url: survey
-- title: The Platform
-  url: platform
+- title: Home
+  url: index
+- title: Projects
+  url: projects
+- title: Publications
+  url: pubs
+- title: Blog
+  url: blog
 - title: About
   url: about
 

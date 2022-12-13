@@ -27,13 +27,13 @@ plugins:
 
 navbar:
 - title: Home
-  url: index
+  url: /
 - title: Projects
   url: projects
 - title: Publications
   url: pubs
 - title: Blog
-  url: blog
+  url: https://davidsmale.netlify.app/portfolio/customising-ggplot2-graphics/ 
 - title: About
   url: about
 

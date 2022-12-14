@@ -6,32 +6,32 @@ card-section:
     cards:
       - title: Data Access
         color: '#1696D2' 
-        url: /data
+        url: [/data](https://lecy.github.io/nccs-demo/projects)
         description: >-
           On a manage receive little. Not the there odd intermixing investigating have way. Picked what's but times six and room
       - title: The Survey
         color: '#EC008B' 
-        url: /survey
+        url: [/survey](https://lecy.github.io/nccs-demo/projects)
         description: >-
           One with fame, past steps. Check believe. Children. Isn't admittance, presentations. 
       - title: The Platform
         color: '#FDBF11' 
-        url: /platform
+        url: [/platform](https://lecy.github.io/nccs-demo/projects)
         description: >-
           Good of knows, safely posterity to made a small even parents'. Gods us, of called has, mice made     
       - title: Data Access
         color: '#000000' 
-        url: /data
+        url: [/data](https://lecy.github.io/nccs-demo/projects)
         description: >-
           On a manage receive little. Not the there odd intermixing investigating have way. Picked what's but times six and room
       - title: The Survey
         color: '#55B748' 
-        url: /survey
+        url: [/survey](https://lecy.github.io/nccs-demo/projects)
         description: >-
           One with fame, past steps. Check believe. Children. Isn't admittance, presentations. 
       - title: The Platform
         color: '#0A4C6A' 
-        url: /platform
+        url: [/platform](https://lecy.github.io/nccs-demo/projects)
         description: >-
           Good of knows, safely posterity to made a small even parents'. Gods us, of called has, mice made   
 ---

@@ -55,17 +55,24 @@ card-section:
 <br>
 
 # NCCS Datasets
+<br>
 
-{% include catalog.html items=site.data.datasets.nccs  color="red" %}
+{% include catalog.html items=site.data.datasets.nccs  color="primary" %}
 
 <br>
 
 {% include banner2.html items=page.banner-two %}
 
 
+<br>
+<br>
+
 # Related Datasets 
 
-{% include catalog.html items=site.data.datasets.catalog-02  color="green" %}
+<br>
+
+
+{% include catalog.html items=site.data.datasets.catalog-02  color="blue" %}
 
 <br>
 

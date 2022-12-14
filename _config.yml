@@ -27,7 +27,7 @@ plugins:
 
 navbar:
 - title: Data
-  url: ./
+  url: https://lecy.github.io/nccs-demo/
 - title: Projects
   url: projects
 - title: Publications

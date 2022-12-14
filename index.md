@@ -6,8 +6,9 @@ banner-main:
     background: '#2a3249'
     title: Banner Title Here
 
-banner-section-01:
+banner-two:
     img: assets/images/banner-two.png
+    title: Alt Text for Banner
 
 card-section:
     cards:
@@ -45,24 +46,20 @@ card-section:
 
 ---
 
-## Executive board
-These people are currently heading RECON.
-
-{% include list-circles.html items=site.data.people.executive_board %}
-
-## Members
-
-Members are people actively involved in, and contributing to, RECON's activities. 
-
-{% include list-circles.html items=site.data.people.members %}
-
-## Advisory board
-
-We are extremely lucky to have the following people supporting and guiding our efforts:
-
-{% include list-circles.html items=site.data.people.advisory_board %}
 
 
+
+{% include catalog.html items=site.data.datasets.catalog-01  color="red" %}
+
+{% include banner2.html items=page.banner-two %}
+
+
+{% include catalog.html items=site.data.datasets.catalog-02  color="green" %}
+
+
+
+
+{% include cards.html %}
 
 Researchers at the Urban Institute, American University, George Mason University, and Georgia Institute of Technology have partnered to improve data about the nonprofit sector and access to those data. The collaboration is working to improve research on the sector, share what is learned with the nonprofit and research communities, and help policymakers and the public make informed decisions that affect or support nonprofit organizations.
 
@@ -76,16 +73,6 @@ Researchers at the Urban Institute, American University, George Mason University
   
 </div>
 
-<br>
-
-
-
-## High-Level Overview Here
-
-[ infographic on timeline ]
-
-<br>
-<hr>
 <br>
 
 

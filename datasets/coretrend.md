@@ -1,6 +1,6 @@
 ---
 layout: dataset
-title: Core Trend File
+title: Core Trend Panel 2000-2015
 
 data-dictionary: https://nccs-data.urban.org/dd2.php?close=1&form=BMF+08/2016
 download: http://url.com

@@ -2,18 +2,18 @@
 layout: home
 
 banner-main:
-    img: assets/images/main-banner.png
-    background: '#2a3249'
+    img: assets/images/banner-two.png
     title: Banner Title Here
 
 banner-two:
-- img: assets/images/banner-two.png
+- img: assets/images/dc-skyline-wide.png
   title: Alt Text for Banner
 
 banner-three:
-- img: assets/images/banner-three.png
-  title: Alt Text for Banner
-  
+    img: assets/images/main-banner.png
+    background: '#2a3249'
+    title: Banner Title Here
+    
 card-section:
     cards:
       - title: Data Access

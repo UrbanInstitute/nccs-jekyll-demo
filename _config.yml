@@ -33,7 +33,7 @@ navbar:
 - title: Publications
   url: pubs
 - title: Tools
-  url: 'https://davidsmale.netlify.app/portfolio'{:target="_blank" rel="noopener"}
+  url: https://davidsmale.netlify.app/portfolio
 - title: About
   url: about
 

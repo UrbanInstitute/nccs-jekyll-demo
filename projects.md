@@ -36,7 +36,7 @@ card-section:
           Good of knows, safely posterity to made a small even parents'. Gods us, of called has, mice made   
 ---
 
-<br>
+
 
 {% include cards.html %}
 

@@ -5,9 +5,16 @@ h1, h2, h3 {
     color: #0a4c6a;
     font-weight: 700;
     font-style: normal;
-    font-family: "Quarto A", "Quarto B", Georgia, Times, "Times New Roman", "Microsoft YaHei New", "Microsoft Yahei", serif;
     line-height: 1.125;
     letter-spacing: 0.025em;
+}
+
+h1 {
+    font-family: "Lato", helvetica, sans-serif;
+}
+
+h2, h3 {
+    font-family: "Quarto A", "Quarto B", Georgia, Times, "Times New Roman", "Microsoft YaHei New", "Microsoft Yahei", serif;
 }
 
 h1 { 

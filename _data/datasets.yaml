@@ -1,10 +1,22 @@
-catalog-01:
+nccs:
 - name: Business Master File 
   desc: Lorem ipsum dolor sit 
-  url: /bmf
-- name: Other Name
+  url: datasets/bmf
+- name: NCCS Core
   desc: Lorem ipsum dolor sit 
-  url: http://other.com
+  url: datasets/core
+- name: Core Trend
+  desc: Lorem ipsum dolor sit 
+  url: datasets/coretrend
+- name: 990 Efile Panel
+  desc: Lorem ipsum dolor sit 
+  url: datasets/efile
+- name: Digitized
+  desc: Lorem ipsum dolor sit 
+  url: datasets/digitized
+- name: SOI Research Panel
+  desc: Lorem ipsum dolor sit 
+  url: datasets/soi
 catalog-02:
 - name: Core Trend Panel
   desc: Lorem ipsum dolor sit  

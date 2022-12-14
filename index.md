@@ -10,9 +10,9 @@ banner-two:
   title: Alt Text for Banner
 
 banner-three:
-    img: assets/images/main-banner.png
-    background: '#2a3249'
-    title: Banner Title Here
+- img: assets/images/main-banner.png
+  background: '#2a3249'
+  title: Banner Title Here
     
 card-section:
     cards:

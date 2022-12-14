@@ -56,7 +56,7 @@ card-section:
 
 # NCCS Datasets
 
-{% include catalog.html items=site.data.datasets.catalog-01  color="red" %}
+{% include catalog.html items=site.data.datasets.nccs  color="red" %}
 
 <br>
 

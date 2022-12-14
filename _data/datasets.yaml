@@ -18,9 +18,21 @@ nccs:
   desc: Lorem ipsum dolor sit 
   url: datasets/soi
 catalog-02:
-- name: Core Trend Panel
-  desc: Lorem ipsum dolor sit  
-  url: /coretrend
-- name: Digitized
-  desc: Lorem ipsum dolor sit  
-  url: digitized 
+- name: Dataset Name 
+  desc: Lorem ipsum dolor sit 
+  url: datasets/bmf
+- name: Dataset Name 
+  desc: Lorem ipsum dolor sit 
+  url: datasets/core
+- name: Dataset Name 
+  desc: Lorem ipsum dolor sit 
+  url: datasets/coretrend
+- name: Dataset Name 
+  desc: Lorem ipsum dolor sit 
+  url: datasets/efile
+- name: Dataset Name 
+  desc: Lorem ipsum dolor sit 
+  url: datasets/digitized
+- name: Dataset Name 
+  desc: Lorem ipsum dolor sit 
+  url: datasets/soi

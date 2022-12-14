@@ -611,6 +611,13 @@ Timeline CSS
 }
 
 
+
+.timeline.theme-primary>li .timeline-image {
+    background-color: #0a4c6a;
+}
+.timeline.theme-blue>li .timeline-image {
+    background-color: #79A0BB; 
+}
 .timeline.theme-red>li .timeline-image {
     background-color: #EC008B;
 }
@@ -620,12 +627,7 @@ Timeline CSS
 .timeline.theme-yellow>li .timeline-image {
     background-color: #FDBF11;
 }
-.timeline.theme-primary>li .timeline-image {
-    background-color: #0A4C6A;
-}
-.timeline.theme-blue>li .timeline-image {
-    background-color: #1696D2;
-}
+
 
 
 .timeline>li .timeline-image h4 {
@@ -660,7 +662,7 @@ Timeline CSS
 
 .timeline .timeline-heading h4 {
     margin-top: 0;
-    color: inherit;
+    color: #7F6000;
 }
 
 .timeline .timeline-heading h4.subheading {

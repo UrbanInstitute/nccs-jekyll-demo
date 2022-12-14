@@ -685,7 +685,7 @@ Timeline CSS
     color: #7F6000;
 }
 
-.timeline:hover {
+.timeline a:hover {
   color: #1696d2;
 }
 

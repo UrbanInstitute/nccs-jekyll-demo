@@ -674,9 +674,14 @@ Timeline CSS
     margin-bottom: 0;
 }
 
-.timeline a{
+.timeline a {
     color: #7F6000;
 }
+
+.timeline:hover {
+  color: #1696d2;
+}
+
 
 @media(min-width:768px) {
     .timeline:before {

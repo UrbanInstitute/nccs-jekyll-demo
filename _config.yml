@@ -5,7 +5,7 @@
 ###################################################################
 
 # Site settings
-title: NCCS
+title: National Center for Charitable Statistics
 description: A demo of the new NCCS data portal.
 baseurl: "/nccs-demo" # the subpath of your site, e.g. /blog
 url: ""

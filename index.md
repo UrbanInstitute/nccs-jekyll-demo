@@ -64,17 +64,19 @@ card-section:
 {% include banner2.html items=page.banner-two %}
 
 
-<br>
-<br>
+
 
 # Related Datasets 
 
 <br>
 
-
 {% include catalog.html items=site.data.datasets.catalog-02  color="blue" %}
 
 <br>
+<hr>
+<br>
+
+
 
 
 {% include banner2.html items=page.banner-three %}
@@ -82,6 +84,10 @@ card-section:
 <br>
 <hr>
 <br>
+
+
+
+
 
 # Projects 
 
@@ -91,6 +97,10 @@ card-section:
 <br>
 <hr>
 <br>
+
+
+
+
 
 # Some Info 
 

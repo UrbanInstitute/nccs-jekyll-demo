@@ -27,7 +27,7 @@ plugins:
 
 navbar:
 - title: Home
-  url: /
+  url: home
 - title: Projects
   url: projects
 - title: Publications

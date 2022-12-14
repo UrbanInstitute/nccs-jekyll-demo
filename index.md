@@ -83,7 +83,16 @@ card-section:
 <hr>
 <br>
 
+# Projects 
+
 {% include cards.html %}
+
+
+<br>
+<hr>
+<br>
+
+# Some Info 
 
 Researchers at the Urban Institute, American University, George Mason University, and Georgia Institute of Technology have partnered to improve data about the nonprofit sector and access to those data. The collaboration is working to improve research on the sector, share what is learned with the nonprofit and research communities, and help policymakers and the public make informed decisions that affect or support nonprofit organizations.
 
@@ -114,15 +123,11 @@ The first wave of the survey includes a nationally representative sample of 2,30
 
 **Year 2: January-May 2022**
 
-The second wave of the survey was sent to **X,XXX** nonprofit organizations and included the same core questions from the first wave plus **DIFFERENT QUESTIONS**. 
+The second wave of the survey was sent to nonprofit organizations and included the same core questions from the first wave plus. 
 
-
-
-## The Data Platform
-
-The Nonprofit Organization Research Panel Project (NORPP) is funded by the National Science Foundation Human Networks and Data Science Infrastructure Program (collaborative award numbers 2024310, 2024307, 2024320, and 2024330 to [American University](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2024310&HistoricalAwards=false), George Mason University, Georgia Institute of Technology, and the [Urban Institute](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2024330&HistoricalAwards=false)). 
-
-The team is working to create a publicly accessible, internet-based, and collaborative research platform that will lower the costs of collecting and sharing high-quality, multiyear data on nonprofit organizations and their activities. The project establishes benchmarks on nonprofit management practices and performance over time.
-
-The goal of the platform is to strengthen research and evaluation, broaden access to data-intensive research, and lead to more scientifically informed decision-making by organizations, policymakers, and funders and improved outcomes for the communities they serve. 
+<br>
+<br>
+<hr>
+<br>
+<br>
 

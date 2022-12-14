@@ -43,8 +43,9 @@ strong {
 }
     
 
-
-
+.banner-area {
+  margin-bottom: 20px;
+}
 
 .button {
   background-color: white;

@@ -7,8 +7,9 @@ banner-main:
     title: Banner Title Here
 
 banner-two:
-    img: assets/images/banner-two.png
-    title: Alt Text for Banner
+- img: assets/images/banner-two.png
+  background: '#2a3249'
+  title: Alt Text for Banner
 
 card-section:
     cards:

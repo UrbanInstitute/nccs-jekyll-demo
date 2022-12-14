@@ -18,16 +18,18 @@ These people are currently heading RECON.
 
 {% include list-circles.html items=site.data.people.executive_board %}
 
+## Leadership Team
+
+We are extremely lucky to have the following people supporting and guiding our efforts:
+
+{% include list-circles.html items=site.data.people.advisory_board %}
+
+
 ## Members
 
 Members are people actively involved in, and contributing to, RECON's activities. 
 
 {% include list-circles.html items=site.data.people.members %}
 
-## Advisory board
-
-We are extremely lucky to have the following people supporting and guiding our efforts:
-
-{% include list-circles.html items=site.data.people.advisory_board %}
 
 

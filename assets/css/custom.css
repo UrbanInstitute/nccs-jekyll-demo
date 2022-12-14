@@ -11,13 +11,13 @@ h1, h2, h3 {
 h1 { 
     text-align: center;
     font-family: "Lato", helvetica, sans-serif;
-    font-size: 1.9rem;
+    font-size: 2.6rem;
     margin-bottom: 30px;
 }
 
 h2 { 
     font-family: "Quarto A", "Quarto B", Georgia, Times, "Times New Roman", "Microsoft YaHei New", "Microsoft Yahei", serif;
-    font-size: 1.3rem;
+    font-size: 1.6rem;
     margin-top: 40px;
     margin-bottom: 30px;
 }

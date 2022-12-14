@@ -4,7 +4,11 @@
     {% for item in include.items %} 
     <li class="{% cycle 'timeline-normal', 'timeline-inverted' %} ">
       <div>
-        <div class="img-circle img-responsive timeline-image"></div>    
+        <div class="img-circle img-responsive timeline-image"></div> 
+        
+        <a href="{{ item.url }}">
+           <span class="link"></span>
+        </a>
 
       </div>
       <div class="timeline-panel">

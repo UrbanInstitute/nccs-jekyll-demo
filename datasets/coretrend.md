@@ -30,9 +30,11 @@ Time. Place seven sounded an go hadn't city to here. Didn't want synthesizers so
 
 ## USE
 
-```r
+```R
+
 library( nccsbmf )
 d <- get_bmf( year== "2019" & state %in% c("AZ","NY","PA") )
+
 ```
 
 ## LINKED DATA

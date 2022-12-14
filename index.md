@@ -2,7 +2,7 @@
 layout: home
 
 banner-main:
-    img: assets/images/banner-two.png
+    img: assets/images/banner-two-v2.png
     title: Banner Title Here
 
 banner-two:

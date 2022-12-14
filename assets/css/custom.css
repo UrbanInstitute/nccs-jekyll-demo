@@ -675,7 +675,7 @@ Timeline CSS
 }
 
 .timeline a{
-    color:black;
+    color: #7F6000;
 }
 
 @media(min-width:768px) {

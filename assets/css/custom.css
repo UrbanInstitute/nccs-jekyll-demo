@@ -1,6 +1,4 @@
 
- 
-
 h1, h2, h3 {
     color: #0a4c6a;
     font-weight: 700;
@@ -9,28 +7,24 @@ h1, h2, h3 {
     letter-spacing: 0.025em;
 }
 
-h1 {
-    font-family: "Lato", helvetica, sans-serif;
-}
-
-h2, h3 {
-    font-family: "Quarto A", "Quarto B", Georgia, Times, "Times New Roman", "Microsoft YaHei New", "Microsoft Yahei", serif;
-}
 
 h1 { 
     text-align: center;
-    font-size: 38px;
+    font-family: "Lato", helvetica, sans-serif;
+    font-size: 44px;
     margin-top: 100px;
     margin-bottom: 30px;
 }
 
 h2 { 
+    font-family: "Quarto A", "Quarto B", Georgia, Times, "Times New Roman", "Microsoft YaHei New", "Microsoft Yahei", serif;
     font-size: 28px;
     margin-top: 40px;
     margin-bottom: 30px;
 }
 
 h3 { 
+    font-family: "Quarto A", "Quarto B", Georgia, Times, "Times New Roman", "Microsoft YaHei New", "Microsoft Yahei", serif;
     font-size: 24px;
     margin-top: 40px;
     margin-bottom: 30px;
@@ -48,6 +42,31 @@ strong {
     font-weight: bolder;
     color: #0a4c6a;
 }
+
+
+
+h4 {
+	font-size: 0.75rem;
+	text-transform: uppercase;
+}
+
+h5 {
+	font-size: 0.75rem;
+	font-weight: 400;
+	text-transform: uppercase;
+}
+
+h6 {
+	font-size: 0.75rem;
+	font-weight: 400;
+}
+
+p {
+	line-height: 1.625;
+	margin: 0 0 1.25rem;
+}
+
+
     
 
 .banner-area {
@@ -277,40 +296,7 @@ summary {
 	display: none;
 }
 
-h1 {
-	font-size: 1.5rem;
-	margin: 0 0 0.8333333333333334em;
-	text-align: center;
-}
 
-h2 {
-	font-size: 1.25rem;
-}
-
-h3 {
-	font-size: 1rem;
-}
-
-h4 {
-	font-size: 0.75rem;
-	text-transform: uppercase;
-}
-
-h5 {
-	font-size: 0.75rem;
-	font-weight: 400;
-	text-transform: uppercase;
-}
-
-h6 {
-	font-size: 0.75rem;
-	font-weight: 400;
-}
-
-p {
-	line-height: 1.625;
-	margin: 0 0 1.25rem;
-}
 
 p:last-child {
 	margin-bottom: 0;
@@ -685,7 +671,7 @@ Timeline CSS
     color: #7F6000;
 }
 
-.timeline a:hover {
+.timeline.a:hover {
   color: #1696d2;
 }
 

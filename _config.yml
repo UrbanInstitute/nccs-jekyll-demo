@@ -27,7 +27,7 @@ plugins:
 
 navbar:
 - title: Data
-  url: index
+  url: 
 - title: Projects
   url: projects
 - title: Publications

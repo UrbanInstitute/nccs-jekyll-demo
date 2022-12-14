@@ -26,13 +26,13 @@ plugins:
   - jekyll-feed
 
 navbar:
-- title: Home
-  url: index.html
+- title: Data
+  url: ./
 - title: Projects
   url: projects
 - title: Publications
   url: pubs
-- title: Blog
+- title: Tools
   url: https://davidsmale.netlify.app/portfolio/
 - title: About
   url: about

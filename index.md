@@ -8,7 +8,6 @@ banner-main:
 
 banner-two:
 - img: assets/images/banner-two.png
-  background: '#2a3249'
   title: Alt Text for Banner
 
 card-section:

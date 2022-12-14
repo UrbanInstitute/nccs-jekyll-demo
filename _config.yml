@@ -32,8 +32,7 @@ navbar:
   url: projects
 - title: Publications
   url: pubs
-- title: Tools
-  url: <a href="https://davidsmale.netlify.app/portfolio/" target="_blank">Tools</a>
+- title: <li><a href="https://davidsmale.netlify.app/portfolio/" target="_blank">Tools</a></li>
 - title: About
   url: about
 

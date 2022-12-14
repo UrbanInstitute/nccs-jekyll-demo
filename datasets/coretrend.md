@@ -15,11 +15,13 @@ buttons:
   link:  https://nccs-data.org/bmf
 - label: download
   link: http://url.com
-- label: download
+- label: user guide
   link: http://url.com
-- label: download
+- label: R package
   link: http://url.com
-- label: download
+- label: get help
+  link: https://github.com/lecy/nccs-demo/issues   
+- label: cite
   link: http://url.com    
 ---
 

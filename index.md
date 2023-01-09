@@ -18,12 +18,12 @@ card-section:
     cards:
       - title: Data Access
         color: '#1696D2' 
-        url: /data
+        url: /platform
         description: >-
           On a manage receive little. Not the there odd intermixing investigating have way. Picked what's but times six and room
       - title: The Survey
         color: '#EC008B' 
-        url: /survey
+        url: /platform
         description: >-
           One with fame, past steps. Check believe. Children. Isn't admittance, presentations. 
       - title: The Platform
@@ -33,12 +33,12 @@ card-section:
           Good of knows, safely posterity to made a small even parents'. Gods us, of called has, mice made     
       - title: Data Access
         color: '#000000' 
-        url: /data
+        url: /platform
         description: >-
           On a manage receive little. Not the there odd intermixing investigating have way. Picked what's but times six and room
       - title: The Survey
         color: '#55B748' 
-        url: /survey
+        url: /platform
         description: >-
           One with fame, past steps. Check believe. Children. Isn't admittance, presentations. 
       - title: The Platform

@@ -7,13 +7,13 @@
 # Site settings
 title: National Center for Charitable Statistics
 description: A demo of the new NCCS data portal.
-baseurl: "/nccs-demo" # the subpath of your site, e.g. /blog
+baseurl: "/nccs" # the subpath of your site, e.g. /blog
 url: ""
 
 # Github  Information
 github:
-  username: lecy 
-  reponame: nccs-demo 
+  username: UrbanInstitute 
+  reponame: nccs
 
 
 ###
@@ -27,7 +27,7 @@ plugins:
 
 navbar:
 - title: Data
-  url: https://lecy.github.io/nccs-demo/
+  url: https://urbaninstitute.github.io/nccs/
 - title: Projects
   url: projects
 - title: Publications

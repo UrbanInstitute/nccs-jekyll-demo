@@ -32,8 +32,8 @@ navbar:
   url: projects
 - title: Publications
   url: pubs
-- title: Tools
-  url: https://davidsmale.netlify.app/portfolio
+- title: Stories
+  url: https://lecy.github.io/hyde2/
 - title: About
   url: about
 
